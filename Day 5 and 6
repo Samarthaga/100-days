@@ -1,0 +1,37 @@
+
+print('hey i and \n and this is a new line yeah boyyyy a good boy') ## escape sequence character \n 
+# this is comment
+'''
+this is my revision 
+and i will continue for 100 days 
+i was supposed to go fast 
+'''
+print('this my idea of putting \'\n and i will do it')
+print('hey',6,7,sep='~',end='009\n')
+print('samartg')## ~ this is used a seperater and end = used for not generating new line 
+# Variables 
+a=1649649316461
+print(a)
+b='samarth'
+print(b)
+samarth='c'
+c=a
+print(c)
+a=1
+b=True
+c='samarth'
+d=None
+print(a)
+print(str(a)+c)
+print(type(b))
+print(type(d))
+e=complex(8,2)
+print(type(e))
+lsit1=[8,2.5,[-4,5],complex(8,5)]
+print(lsit1)
+# list is mutable and Tuple is Immutable 
+tuple1=(('parrot','hen'),'duck','frog')
+print(tuple1)
+dict1={'name':'Saakshi','age':'18','vote':True}
+print(dict1)
+# python everything is Object 
