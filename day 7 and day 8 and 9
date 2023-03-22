@@ -1,0 +1,27 @@
+## calculator 
+num1=float(input('enter no 1'))
+operator=input('enter operator function')
+num2=float(input('enter num2'))
+
+if operator=='+':
+  print(num1 + num2)
+elif operator=='-':
+  print(num1 - num2)
+elif operator=='*':
+  print(num1 * num2)
+elif operator=='/':
+  print(num1 / num2)
+elif operator=='%':
+  print(num1 % num2)
+else:
+  print('invalid operator')
+ 
+## Calculator basis printprint('additionh',a+b) 
+a=67
+b=76
+print('the addition of ',a,'+' ,b,'is',a+b)
+print('the addition of ',a,'-' ,b,'is',a-b)
+print('the addition of ',a,'*' ,b,'is',a*b)
+print('the addition of ',a,'/' ,b,'is',a/b)
+print('the addition of ',a,'%' ,b,'is',a%b)
+print('additionh',a+b)
